@@ -1,0 +1,37 @@
+_repo: Negro-Tales_41590
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41590-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cotter, Joseph S. (Joseph Seamon)
+    aliases:
+    - Cotter, Joseph Seamon, Sr.
+    - Cotter, Joseph Seamon
+    birthdate: 1861
+    deathdate: 1949
+    gutenberg_agent_id: '41248'
+    url: http://www.gutenberg.org/2009/agents/41248
+description: ''
+gutenberg_issued: '2012-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41590'
+  lccn: '13000384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'African Americans -- Fiction'
+tableOfContents: The author -- Caleb -- Rodney -- Tesney, the deceived -- Regnan's
+  anniversary -- "Kotchin' de nines" -- A town sketch -- The stump of a cigar -- A
+  rustic comedy -- The Jackal and the Lion -- The King's shoes -- How Mr. Rabbit secures
+  a pretty wife and rich father-in-law -- The little boy and Mister Dark -- Observation
+  -- The Boy and the ideal -- The negro and the automobile -- Faith in the white folks
+  -- The cane and the umbrella.
+title: Negro Tales
+url: http://www.gutenberg.org/ebooks/41590
