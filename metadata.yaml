@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41248'
     url: http://www.gutenberg.org/2009/agents/41248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41590#Negro-Tales
 gutenberg_issued: '2012-12-09'
 gutenberg_type: Text
 identifiers:
